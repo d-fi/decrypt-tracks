@@ -1,0 +1,23 @@
+{
+  "name": "decrypt-tracks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-fi/decrypt-tracks.git"
+  },
+  "author": "Sayem Chowdhury",
+  "license": "MIT",
+  "private": false,
+  "description": "Sample tool to decrypt tracks from Deezer",
+  "bugs": {
+    "url": "https://github.com/d-fi/decrypt-tracks/issues"
+  },
+  "homepage": "https://github.com/d-fi/decrypt-tracks#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deezer"
+  ]
+}
